@@ -23,6 +23,7 @@ jQuery(document).ready(function($) {
     $('.level-label').tooltip();
     
     
+    /*
     $("#rss-feeds").rss(
     
         //Change this to your own rss feeds
@@ -51,6 +52,6 @@ jQuery(document).ready(function($) {
         
         }
     );
-
+    */
 
 });
