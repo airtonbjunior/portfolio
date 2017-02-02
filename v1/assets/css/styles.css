@@ -536,3 +536,11 @@ iframe {
     width: 1360px;
   }
 }
+
+/* MY CODE */
+code {
+  margin-right: 5px;
+  background: #778492;
+  color: white;
+}
+
