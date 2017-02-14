@@ -6,6 +6,13 @@
 
 :root {
 	--social-icon-color: #000;
+	--social-icon-hover-color: #0f0;
+}
+
+
+a {
+	text-decoration: none;
+	color: var(--social-icon-color);
 }
 
 .wrapper-content {
@@ -23,7 +30,6 @@
 	border-radius: 50%;
 }
 
-a {
-	text-decoration: none;
-	color: var(--social-icon-color);
+.social-icons a:hover {
+	color: var(--social-icon-hover-color);
 }
