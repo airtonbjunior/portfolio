@@ -37,3 +37,10 @@ a {
 .social-icons {
 	margin-bottom: 25px;
 }
+
+.project {
+	background: black;
+	color: white;
+
+	display: inline-block;
+}
