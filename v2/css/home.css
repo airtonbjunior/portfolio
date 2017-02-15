@@ -33,3 +33,7 @@ a {
 .social-icons a:hover {
 	color: var(--social-icon-hover-color);
 }
+
+.social-icons {
+	margin-bottom: 25px;
+}
