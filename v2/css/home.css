@@ -49,3 +49,7 @@ a {
 
 	margin: 5px;
 }
+
+.grid {
+	border: 1px solid red;
+}
